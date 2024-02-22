@@ -17,3 +17,21 @@ To enhance web experience Parallax animation is also used
 ![Screenshot 2024-02-22 211314](https://github.com/Harshjerry/Blogsite/assets/140230672/c0a91b74-02e4-44c7-914b-50fd61b9f692)
 
 Thank you 
+
+Client or Front-end will be running at localHost  :3000
+and backend 5000 .
+Although when You will be at main directory  You can directly install packages and run (npm start ) command that will concurrently run both backend and front-end 
+Before running make  config.env  file in api folder and add
+env variables
+1. DB_PASSWORD  for  your database  password
+2. CONN_STR   for your connection string of MongoDB
+
+Register , login
+and then add awesome stories , update them.
+
+
+Thank you
+
+Author Harsh Singh
+
+
