@@ -15,3 +15,5 @@ To enhance web experience Parallax animation is also used
 ![Screenshot 2024-02-22 211301](https://github.com/Harshjerry/Blogsite/assets/140230672/bbd17c67-3cd5-40e4-bee2-742e7193686a)
 
 ![Screenshot 2024-02-22 211314](https://github.com/Harshjerry/Blogsite/assets/140230672/c0a91b74-02e4-44c7-914b-50fd61b9f692)
+
+Thank you 
