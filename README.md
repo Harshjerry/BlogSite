@@ -9,3 +9,6 @@ Mininal theme  with use of Modern colors and gentle user interface
 ![Screenshot 2024-02-21 102300](https://github.com/Harshjerry/Blogsite/assets/140230672/bab58874-52c8-4fb3-9438-39f0851e8ce8)
 
 ![Screenshot 2024-02-21 102348](https://github.com/Harshjerry/Blogsite/assets/140230672/f6a6b06f-eb98-4161-a8e8-2aefebd7f0ab)
+
+To enhance web experience Parallax animation is also used
+
